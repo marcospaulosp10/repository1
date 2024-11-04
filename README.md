@@ -1,2 +1,1 @@
-# truenorth_frontend
-TrueNorth Frontend
+# appGPT integration test
